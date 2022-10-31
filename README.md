@@ -1,3 +1,3 @@
 # school_app
 
-A f
+A flutter project.
